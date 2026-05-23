@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# PyCharm / IDE
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Локальный журнал (не обязателен в репозитории)
+desk_shell.log
